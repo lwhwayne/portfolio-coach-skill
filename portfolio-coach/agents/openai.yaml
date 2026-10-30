@@ -1,0 +1,13 @@
+interface:
+  display_name: 作品集教练
+  short_description: 结合目标岗位筛选项目、梳理设计逻辑并逐页优化作品集
+  default_prompt: 使用 $portfolio-coach 分析我上传的设计作品集，并给出项目选择、叙事与逐页排版建议。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
