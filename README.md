@@ -61,6 +61,26 @@ Skill 会根据问题规模选择需要的输出，而不是每次生成完整�
 
 仓库不包含作者原始作品集、项目截图、公司内部材料或个人履历。使用时请自行处理敏感信息。Skill 会区分已有事实、分析建议和待补信息，但最终仍应由作品集作者核对项目事实与数据口径。
 
+## 测试许可与使用边界
+
+本项目是 **source-available（源代码可见）测试版本，不是开源软件**。
+
+在 [Portfolio Coach Evaluation License](LICENSE) 下，允许：
+
+- 下载并安装一份未经修改的副本
+- 仅用于个人、非商业的测试和评估
+- 提交使用反馈和测试结果
+
+未经作者书面许可，禁止：
+
+- 修改、改编或制作衍生版本
+- 再发布、分享、镜像上传或转售
+- 用于商业服务、付费咨询或团队部署
+- 提取其中的方法制作相似或竞争性的 Skill、产品或服务
+- 删除版权、署名或许可声明
+
+如需修改、分发、商业使用或团队使用，请先取得作者书面授权。
+
 ## 仓库结构
 
 ```text
@@ -78,5 +98,5 @@ portfolio-coach/
 
 ## License
 
-MIT License
+Portfolio Coach Evaluation License 1.0 — personal, non-commercial evaluation only. See [LICENSE](LICENSE).
 
